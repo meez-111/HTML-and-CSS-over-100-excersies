@@ -58,7 +58,7 @@ Inside each exercise folder, you will typically find:
 * `exercise-xxx-xxx.html`: The main HTML file for the exercise.
 * `style.css`: The associated CSS file.
 * `README.md`: A brief description of the exercise.
-* `screenshot.png` or `screenshot.gif`: A visual representation of the completed exercise output.
+* `screenshot-001-a.png` or `screenshot-001-a.gif`: A visual representation of the completed exercise output.
 
 ---
 
