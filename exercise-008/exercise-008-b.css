@@ -1,0 +1,8 @@
+.thanks, button{
+        vertical-align: middle;
+        display: inline-block;
+}
+
+.thanks {
+        width: 200px;
+}
