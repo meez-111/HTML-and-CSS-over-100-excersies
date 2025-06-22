@@ -1,0 +1,32 @@
+*{
+        margin-top: 0;
+        margin-bottom: 0;
+        font-family: Arial;
+}
+.email-word{
+        color: rgb(128, 128, 128);
+        font-size: 15px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+}
+.email{
+        width: 350px;
+        height: 25px;
+        font-size: 16px;
+        margin-bottom: 12px;
+}
+.privacy{
+        color: gray;
+        margin-bottom: 12px;
+}
+.agree-btn{
+        background-color: rgb(24, 100, 186);
+        color: white;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 140px;
+        padding-right: 140px;
+        border-radius: 50px;
+        border: none;
+        cursor: pointer;
+}
