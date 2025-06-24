@@ -1,0 +1,21 @@
+img, input { 
+        display: block;
+}
+img {
+        width: 250px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        margin-left: 250px;
+}
+input{
+        width: 650px;
+        height: 40px;
+        border-radius: 50px;
+        border: none;
+        margin-left: 30px;
+        font-size: 16px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 25px;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
